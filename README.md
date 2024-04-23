@@ -2,7 +2,7 @@
 
 First, we enter the folder where our remote repository is located
 
-![img32](![alt text](image.png))
+![img32](image.png)
 
 Create an environment with the following command "py -m venv venv".
 
